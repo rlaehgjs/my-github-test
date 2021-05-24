@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: My another CI
+name: My another CI (trying to skip ci).
 
 # Controls when the action will run. 
 on:
